@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/jiho3894/RamdomNumber/static/js/main.0fec228d.chunk.js",
-    "main.js.map": "/jiho3894/RamdomNumber/static/js/main.0fec228d.chunk.js.map",
-    "runtime-main.js": "/jiho3894/RamdomNumber/static/js/runtime-main.5010cd94.js",
-    "runtime-main.js.map": "/jiho3894/RamdomNumber/static/js/runtime-main.5010cd94.js.map",
-    "static/js/2.fb7de269.chunk.js": "/jiho3894/RamdomNumber/static/js/2.fb7de269.chunk.js",
-    "static/js/2.fb7de269.chunk.js.map": "/jiho3894/RamdomNumber/static/js/2.fb7de269.chunk.js.map",
-    "index.html": "/jiho3894/RamdomNumber/index.html",
-    "static/js/2.fb7de269.chunk.js.LICENSE.txt": "/jiho3894/RamdomNumber/static/js/2.fb7de269.chunk.js.LICENSE.txt"
+    "main.js": "/RamdomNumber/static/js/main.0fec228d.chunk.js",
+    "main.js.map": "/RamdomNumber/static/js/main.0fec228d.chunk.js.map",
+    "runtime-main.js": "/RamdomNumber/static/js/runtime-main.d6fe5c44.js",
+    "runtime-main.js.map": "/RamdomNumber/static/js/runtime-main.d6fe5c44.js.map",
+    "static/js/2.86c401e2.chunk.js": "/RamdomNumber/static/js/2.86c401e2.chunk.js",
+    "static/js/2.86c401e2.chunk.js.map": "/RamdomNumber/static/js/2.86c401e2.chunk.js.map",
+    "index.html": "/RamdomNumber/index.html",
+    "static/js/2.86c401e2.chunk.js.LICENSE.txt": "/RamdomNumber/static/js/2.86c401e2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5010cd94.js",
-    "static/js/2.fb7de269.chunk.js",
+    "static/js/runtime-main.d6fe5c44.js",
+    "static/js/2.86c401e2.chunk.js",
     "static/js/main.0fec228d.chunk.js"
   ]
 }
