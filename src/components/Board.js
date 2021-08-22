@@ -11,14 +11,12 @@ const Container = styled.div`
   grid-template-rows: repeat(5, 1fr);
 `;
 
-const Board = () => {
+const Board = ({numbers}) => {
   return(
     <Container>
-      <Box></Box>
-      <Box></Box>
-      <Box></Box>
-      <Box></Box>
-      <Box></Box>
+      {numbers.map((num, index) => (
+        <Box num={num} key={index}></Box>
+      ))}
     </Container>
   )
 }

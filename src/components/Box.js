@@ -1,8 +1,8 @@
 import React from "react";
 import styled from "styled-components";
 
-function Box() {
-  return <Container>숫자</Container>;
+function Box({num}) {
+  return <Container>{num}</Container>;
 }
 
 const Container = styled.div`
