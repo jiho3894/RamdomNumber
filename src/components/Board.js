@@ -3,19 +3,20 @@ import styled from "styled-components";
 import Box from './Box';
 
 const Container = styled.div`
-  width: 800px;
-  height: 800px;
+  width: 700px;
+  height: 700px;
   border: 1px solid blue;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   grid-template-rows: repeat(5, 1fr);
+  margin-bottom: 30px;
 `;
 
-const Board = ({numbers}) => {
+const Board = ({numbers, handleClick}) => {
   return(
     <Container>
       {numbers.map((num, index) => (
-        <Box num={num} key={index}></Box>
+        <Box handleClick={handleClick} num={num} key={index}></Box>
       ))}
     </Container>
   )
